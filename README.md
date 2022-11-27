@@ -1,5 +1,5 @@
-# The Hardest Nine Circles Levels in the game
-**THIS ONLY INCLUDES LEVELS THAT ARE ON THE THE MAIN, EXTENDED OR LEGACY LIST!**
+# The Hardest Nine Circles Levels In The Game
+## **THIS ONLY INCLUDES LEVELS THAT ARE ON THE THE MAIN, EXTENDED OR LEGACY LIST!**
 
 1. Sakupen Circles by Diamond
 2. The Hallucination by SyQual
