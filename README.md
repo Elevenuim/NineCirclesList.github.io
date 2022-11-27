@@ -4,8 +4,8 @@
 ## The List:
 
 #### 1. Sakupen Circles by Diamond
-2. The Hallucination by SyQual
-3. Sonic Wave Infinity by APTeam
+##### 2. The Hallucination by SyQual
+###### 3. Sonic Wave Infinity by APTeam
 4. Aerial Gleam by EndLevel
 5. Cosmic Cyclone by APTeam
 6. Arctic Lights by MetalFace221
