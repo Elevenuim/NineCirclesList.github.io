@@ -1,5 +1,7 @@
 # The Hardest Nine Circles Levels In The Game
-## **THIS ONLY INCLUDES LEVELS THAT ARE ON THE THE MAIN, EXTENDED OR LEGACY LIST!**
+### **THIS ONLY INCLUDES LEVELS THAT ARE ON THE THE MAIN, EXTENDED OR LEGACY LIST!**
+
+## The List:
 
 1. Sakupen Circles by Diamond
 2. The Hallucination by SyQual
@@ -24,7 +26,8 @@
 21. Down Bass by Spectra
 22. Crimson Clutter by RedUniverse
 
-Upcoming Levels:
+## Upcoming Levels:
+
 - Africa Circles by Linear
 - Aquamarine by alex
 - Azure Flare by aedengd
