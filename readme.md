@@ -32,6 +32,7 @@
 - Aquamarine by alex
 - Azure Flare by aedengd
 - Chaotix Wave by CuLuC
+- Disturb by idkLINK
 - Down Bass Incarnate by Wespdx
 - Femboy Circles by YeetYeet12
 - Inverdant Circles by Saviorz
